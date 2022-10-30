@@ -4,8 +4,9 @@ description = "A library covering anything osu!"
 version = "0.0.1"
 edition = "2021"
 homepage = "https://github.com/irj/orbit"
-reponsitory = "https://github.com/irj/orbit"
+repository = "https://github.com/irj/orbit"
 keywords = ["osu"]
 license = "MIT"
 
 [dependencies]
+nano-leb128 = "0.1.0"
